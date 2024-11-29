@@ -43,8 +43,8 @@ Antes de iniciar, certifique-se de ter os seguintes itens instalados:
 1. **Clone o Repositório**
 
    ```bash
-   git clone https://github.com/seu-usuario/embrapii_projecoes_2025.git
-   cd embrapii_projecoes_2025
+   git clone https://github.com/LucasAgroTech/embrapii_questao_4.git
+   cd embrapii_questao_4
    ```
 
 2. **Crie um Ambiente Virtual (Opcional, mas Recomendado)**
